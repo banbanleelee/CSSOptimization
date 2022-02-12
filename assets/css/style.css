@@ -50,9 +50,9 @@ a {
 
 /* figure below the nav bar */
 .hero {
-    display: block;
-    height: 800px;
-    width: auto;
+    display: flex;
+    height: auto;
+    width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
